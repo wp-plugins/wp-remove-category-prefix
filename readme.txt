@@ -1,5 +1,5 @@
 === WP Remove Category prefix ===
-Contributors: ezraverheijen
+Contributors: Axelnsk
 Tags: category base, category prefix, category slug, category link, category permalink, category url, удалить category, префикс рубрик, ссылка рубрик, префикс категорий, ссылка категорий
 Requires at least: 3.5
 Tested up to: 4.0
